@@ -1,0 +1,5 @@
+aiogram
+pyrogram
+tgcrypto
+aiosqlite
+python-dotenv
